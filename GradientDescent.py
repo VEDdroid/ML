@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Gradient Descent Algorithm
-"""
+""" Gradient Descent Algorithm """
 
 import numpy as np
 def gradientFunction(x):
