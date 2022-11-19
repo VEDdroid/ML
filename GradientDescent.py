@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Gradient Descent Algorithm
 """
